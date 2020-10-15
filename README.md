@@ -9,5 +9,5 @@
 ![Kyuzaa github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=kyuzaa)
 
 ### 📫 Feel free to contact me anytime
-[<img src="https://img.shields.io/badge/Telegram-%Kyuzaa-blue">](https://t.me/kyuzaa)
+[<img src="https://img.shields.io/badge/Telegram-Kyuzaa-blue">](https://t.me/kyuzaa)
 [<img src="https://img.shields.io/badge/LINE-Kyuza-brightgreen">](https://line.me/ti/p/~kyu.za)
