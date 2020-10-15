@@ -1,5 +1,5 @@
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Kyuza
-<img align="center" height="auto" src="https://github.com/kyuzaa/kyuzaa/blob/main/img/osEBUEE.jpg"/>
+<img align="center" height="auto" src="https://github.com/kyuzaa/kyuzaa/blob/main/img/1108441.jpg"/>
 
 ___
 
