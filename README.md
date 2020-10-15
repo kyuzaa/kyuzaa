@@ -1,5 +1,9 @@
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Kyuza
-<img align="center" height="auto" src="https://github.com/kyuzaa/kyuzaa/blob/main/img/chizuruu.gif"/>
+<img align="center" height="auto" src="https://github.com/kyuzaa/kyuzaa/blob/main/img/osEBUEE.jpg"/>
+
+___
+
+<img alt="Waifu" width="600" src="https://github.com/kyuzaa/kyuzaa/blob/main/img/chizuruu.gif"/>
 
 ___
 
