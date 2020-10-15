@@ -1,13 +1,13 @@
-## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Kyuza
-<img align="center" height="auto" src="https://github.com/kyuzaa/kyuzaa/blob/main/img/osEBUEE.jpg"/>
+### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm <a href="https://github.com/kyuzaa">Kyuza</a>!
 
-___
+:page_with_curl: I'm currently learning:
+- Python
+- Java
+- Javascript
+- Apache Thrift
 
-<img alt="Waifu" width="600" src="https://github.com/kyuzaa/kyuzaa/blob/main/img/chizuruu.gif"/>
+![Kyuzaa github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=kyuzaa)
 
-___
-
-![Kyuzaa github stats](https://github-readme-stats.vercel.app/api?username=kyuzaa&show_icons=true&theme=dark&show_owner=true)
-___
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuzaa&theme=dark&hide=css,html)
+### 📫 Feel free to contact me anytime
+[<img src="https://img.shields.io/badge/Telegram-%Kyuzaa-blue">](https://t.me/kyuzaa)
+[<img src="https://img.shields.io/badge/LINE-Kyuza-brightgreen">](https://line.me/ti/p/~kyu.za)
